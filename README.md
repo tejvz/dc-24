@@ -37,7 +37,7 @@ Keep Your Discord Profile/Account Online Forever For 24/7
  git clone https://github.com/tejvz/dc-24
  Do "npm install" after going into file
  then "node index.js" but thats not 24/7 thats only work when 
- your termux is working in background
+ your termux is running in background
  
  # RECOMMENDATION
  **Preferred To Be Run In Replit Or In Render**
