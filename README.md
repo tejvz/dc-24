@@ -31,6 +31,7 @@ Keep Your Discord Profile/Account Online Forever For 24/7
  # Termux Installation
  
  **pkg install git**
+
  **pkg install nodejs**
 
  git clone https://github.com/tejvz/dc-24
