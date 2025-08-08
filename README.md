@@ -28,10 +28,11 @@ Keep Your Discord Profile/Account Online Forever For 24/7
  
  Key - [ token ] = Value - [ Your Discord Account Token Here ]
  
- # In Termux 
+ # Termux Installation
  
  **pkg install git**
- 
+ **pkg install nodejs**
+
  git clone https://github.com/tejvz/dc-24
  Do "npm install" after going into file
  then "node index.js" but thats not 24/7 thats only work when 
