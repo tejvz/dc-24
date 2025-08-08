@@ -15,18 +15,14 @@ Keep Your Discord Profile/Account Online Forever For 24/7
 8. Make sure the last session you was online
 
 # ON MOBILE / Not Tell The Proccess To Run
- 1. Go To Play Store Search "Kiwi Browser"
+ 1. Go To Play Store Search "Lemur Browser"
  2. Click On Install
  3. After Installing Go To https://discord.com/login
  4. Login Your Account And Then Go To Any Chat/Dm/Server/Channel 
  5. Click On 3 Dots On Right Corner
- 5. Then Click On Developer Tool
- 6. Click On Application On The Top
- 7. Click On Local Storage 2 Times
- 6. Then Click On https://discord.com/...
- 7. Then Search "token" There
- 8. Copy The Value Of "token"
- 9. Thats Your Discord Id Token
+ 6. Download Extension Get User Token
+ 7. Click On Extension Then On Get Token
+ 8. Copy Token
  
  # Add Secrets
  
