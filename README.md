@@ -19,7 +19,7 @@ Keep Your Discord Profile/Account Online Forever For 24/7
  2. Click On Install
  3. After Installing Go To https://discord.com/login
  4. Login Your Account And Then Go To Any Chat/Dm/Server/Channel 
- 5. Click On 3 Dots On Right Corner
+ 5. Click On 3 Lines
  6. Download Extension Get User Token
  7. Click On Extension Then On Get Token
  8. Copy Token
